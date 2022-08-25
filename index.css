@@ -1,0 +1,16 @@
+h2 {
+       color: blue;
+       font-size: 70x;
+       font-family: "Times New Roman";
+       margin: 1px;
+       background-color: white;
+       text-align: center;
+}
+body {
+  background-image: url(/Download/images (1).jpeg); 
+  background-image: url(/Download/images (2).jpeg);
+  background-attachment: fixed;
+  background-position: center;
+}
+
+   
